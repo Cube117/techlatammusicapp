@@ -1,0 +1,12 @@
+.Header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+  display: 'flex';
+  flex-wrap: 'wrap';
+}
+
+#buscador{
+  width: 230px;
+}
+

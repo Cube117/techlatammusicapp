@@ -1,0 +1,17 @@
+#Album {
+  position:relative;
+  background-color: #fff;
+  margin-Top: 10px ; 
+  width: 367px;
+  max-width:367px;
+  float: left;
+  margin-right: 10;
+  height: 664.533;
+  margin-bottom: 10;
+}
+
+#boton{
+   position:absolute;
+   bottom:5px;
+   right:10px;
+}
